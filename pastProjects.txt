@@ -1,0 +1,25 @@
+101|AI Team Builder A smart system to build teams based on employee skills and project requirements.
+102|Green Energy Dashboard A web application to monitor solar panel energy output in real time.
+103|Blockchain Voting System Secure and transparent voting mechanism using distributed ledger technology.
+104|Automated Payroll Bot An RPA solution to automate monthly salary processing and tax deductions.
+105|Smart Office HVAC IoT sensors to automatically adjust office temperature based on room occupancy.
+a|b c
+a|b d
+b|a c
+a|re m
+1|abc xyz
+2|abc qwe
+3|A this is an idea
+4|B this is another idea
+USER|user1|H0WVDFe+ZEfOiwdj2bFp9w==:FA8cY4saU2qxbZUkWQYfwkSHgiNt/Dj1WarlXtxS78M=
+SUBMISSION|1|a|qwertyuiop|user1|SCREENING|0.6666666666666667|Unique submission; duplicate risk 33%; closest record: b
+USER|user2|TAWWig6VtgPMuhUtS5HNog==:JTJjJESU1rdzghW1X4BGTD4dpDZTxDLHnjUj89StqlY=
+SUBMISSION|2|b|qwertyu|user2|SCREENING|0.6666666666666667|Unique submission; duplicate risk 33%; closest record: a
+USER|architayadav|HZ7rsMaZnsujMyUsrY7wDg==:+3G1PJGDTijo835c4WgBT1l4Fbb1n0lVk66pdgMNVVk=
+SUBMISSION|105|Smart Office HVAC|IoT sensors to automatically adjust office temperature based on room occupancy.|architayadav|REJECTED|0.0|Duplicate risk 100%; closest record: 105
+SUBMISSION|106|Smart Office HVAC|IoT sensors to automatically adjust office temperature based on room occupancy.|architayadav|REJECTED|0.0|Duplicate risk 100%; closest record: 105
+SUBMISSION|105|Smart Office HVAC|IoT sensors to automatically adjust office temperature based on hostel occupancy.|architayadav|REJECTED|0.0|Duplicate risk 86%; closest record: 105
+SUBMISSION|105|Smart Hostel|IoT sensors to automatically adjust office temperature based on hostel occupancy.|architayadav|REJECTED|0.0|Duplicate risk 92%; closest record: 105
+SUBMISSION|105|Smart Hostel|Platform for searching best hostel near to the specified location|architayadav|SCREENING|0.85|Unique submission; duplicate risk 15%; closest record: 105
+USER|archita|/8vl3LSuGZOhoIiGA2d0NA==:9m8DTEcqyUFaRfChqNhvEJI7GvDuW0FpAZstzANSTRw=
+SUBMISSION|5|Smart Team Formation|Making team according to the required skills.|archita|SCREENING|0.8095238095238095|Unique submission; duplicate risk 19%; closest record: 101
